@@ -6,7 +6,7 @@ export const config = {
     logInAuthUrl: "",
   },
   head: {
-    title: "WTF",
+    title: "WTF!",
   },
   footer: {
     copyright: "© Glink",
