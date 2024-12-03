@@ -10,7 +10,7 @@ export const config = {
   },
   footer: {
     copyright: "© Glink",
-    copyrightUrl: "https://github.com/glink25",
+    copyrightUrl: "https://github.com/stallonefennec",
   },
   giscus: false as object | false,
 } as const;
