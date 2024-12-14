@@ -71,7 +71,7 @@ export const config = {
 如果你需要自定义自己的博客，也可以通过学习Astro.js，来随心所欲地修改自己的博客行为，例如修改样式，增加更多的交互功能等；如果你想要详细了解Urodele的技术方案，以便更好地自定义自己的主题，可以通过系列文章（TODO）来了解Urodele的内部实现，相信我，这真的十分简单！
 
 
-# Welcome to Urodele
+# Welcome to Lucky
 
 what is urodele? 
 
